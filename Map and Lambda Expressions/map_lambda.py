@@ -1,3 +1,6 @@
+#Usage of lambda only
+cube=lambda x: x*x*x
+print(cube(6))
 #typical condition
 #add list with another
 def addition(n):
