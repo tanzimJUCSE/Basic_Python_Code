@@ -1,0 +1,1 @@
+### If you we use input().split() You have take input space by space(no enter)
