@@ -34,7 +34,7 @@ else:
 
 
 *****************************************************
-
+### Replace
 
 #The above code blocks can be replaced by the following codes:
 N,n = int(input()),input().split()
