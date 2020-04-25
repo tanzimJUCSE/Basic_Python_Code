@@ -1,3 +1,7 @@
+#N==Row Number
+#M=Column Number
+#K=Intended Index Number
+
 if __name__ == '__main__':
     N, M = map(int, input().split())
     rows = [input() for _ in range(N)]
